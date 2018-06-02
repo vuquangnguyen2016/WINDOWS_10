@@ -1,5 +1,9 @@
 # WINDOWS_10
 ```
+WINDOWS 2018 
+https://www.youtube.com/watch?v=b7xfNt4RcM0
+
+
 slmgr.vbs /upk
 slmgr.vbs /cpky
 slmgr.vbs /ckms
